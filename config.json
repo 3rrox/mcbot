@@ -1,0 +1,10 @@
+{
+ "ip": "nsazmunsSMP.aternos.me",
+ "port": "22883",
+ "name": "Bot1",
+ "auto-night-skip": "false",
+ "login-enabled": "false",
+ "loginmsg": "Bot entered the game",
+ "auto-reconnect": "true",
+ "web": "true" 
+ }
